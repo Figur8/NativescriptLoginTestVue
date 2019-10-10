@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/d0a1e0509d85001244bb83b1e1a04a6e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/2dd1199dee86ef3544e22123cf71c125/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/57e90cc1cae33024812190bec42280b8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/ae53b89256379210c62aa37a88335c18/AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/455d674596e0e0232b623a83e995598a/AndroidManifest.xml:2:1-11:12
+MERGED from [:fancylogger-release:] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/b75d2112ea4df35e63b0188c2654aafb/AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/4fef338881d4fcd6845e54c90663097e/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.media:media:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/9e8d67be4de814b6cf377036fb7d9570/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/19048c5ae64ac78b1c2bd05ebc9f0037/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/4d810cad3983b889b04f2f1985853fd5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f99bcc05fb2324c2a21c95fe0c0160b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f9490c5197564c6efafd371b7ca36618/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/bcfcb480b0afc79be4b21ddf8897a2eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f49fae5595144a51582c0d3cb663eb31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/af8f4010801bbf6f98c54e37f656e399/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/c4c28d57dcad778b4d904f28dcc37506/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/6b94e1b678aa74e503f2ed37c4a8cb6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/9d0eac4688dc2e8d37b845997ab55fca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/0b1fbed59ff6f9558b3e1641049f031b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/68b25648b495dc2e859cd89d8c0ec0ea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/fbb7f7140657bab25982a8d52b07b8f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/cf6dfb249f62aae8b80042dba061eed4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/5eb142a8d52447c047d3234c0e7821f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/a91cc4ff6be88fe170d45d72fcddb329/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/41e2e2ac4cc203935b5f3071c6d31db7/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/1b278606fb9aa263648a5a38863df207/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/a4954016ac13960d920a20456d79eb53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/a0b7866ff2d9a7d022864c52e999c3cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/1874a3458d21be06e3bc560c9aa30aa2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/e9c8202e8af111d95ec3166a248fb322/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/2194d62b99103c92678cc43a0eae196d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/80d9cb0b1935cb509f645b59684ca9ba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f5b7b15c6a773306c8fd4843541cc8e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f0d1a41b939cad412b4112405044798b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/5bc1baa6382960c52f4f7ebcba8c5fa6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/2dde323ff1f473c35251c3bf4357bfde/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:3:2-40
+		INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:4:2-29
+		INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:13:2-76
+	android:name
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:13:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:14:2-77
+	android:name
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:14:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:15:2-63
+	android:name
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:15:19-61
+application
+ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:17:2-38:16
+MERGED from [com.google.android.material:material:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/57e90cc1cae33024812190bec42280b8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/57e90cc1cae33024812190bec42280b8/AndroidManifest.xml:22:5-20
+MERGED from [:widgets-release:] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/4fef338881d4fcd6845e54c90663097e/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/4fef338881d4fcd6845e54c90663097e/AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.core:core:1.0.1] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/a91cc4ff6be88fe170d45d72fcddb329/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/a91cc4ff6be88fe170d45d72fcddb329/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/41e2e2ac4cc203935b5f3071c6d31db7/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/41e2e2ac4cc203935b5f3071c6d31db7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/a91cc4ff6be88fe170d45d72fcddb329/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:21:3-35
+	android:icon
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:20:3-32
+	android:allowBackup
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:19:3-29
+	android:theme
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:22:3-34
+	android:name
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:18:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:24:3-36:14
+	android:label
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:26:4-49
+	android:configChanges
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:27:4-120
+	android:theme
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:28:4-44
+	android:name
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:25:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:30:4-87
+	android:resource
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:30:50-84
+	android:name
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:30:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:32:4-35:20
+action#android.intent.action.MAIN
+ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:33:5-57
+	android:name
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:33:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:34:5-65
+	android:name
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:34:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:37:3-57
+	android:name
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml:37:13-55
+uses-sdk
+INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/d0a1e0509d85001244bb83b1e1a04a6e/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/d0a1e0509d85001244bb83b1e1a04a6e/AndroidManifest.xml:20:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/2dd1199dee86ef3544e22123cf71c125/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/2dd1199dee86ef3544e22123cf71c125/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/57e90cc1cae33024812190bec42280b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/57e90cc1cae33024812190bec42280b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/ae53b89256379210c62aa37a88335c18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/ae53b89256379210c62aa37a88335c18/AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/455d674596e0e0232b623a83e995598a/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/455d674596e0e0232b623a83e995598a/AndroidManifest.xml:7:5-9:41
+MERGED from [:fancylogger-release:] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/b75d2112ea4df35e63b0188c2654aafb/AndroidManifest.xml:7:5-9:41
+MERGED from [:fancylogger-release:] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/b75d2112ea4df35e63b0188c2654aafb/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/4fef338881d4fcd6845e54c90663097e/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/4fef338881d4fcd6845e54c90663097e/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.media:media:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/9e8d67be4de814b6cf377036fb7d9570/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/9e8d67be4de814b6cf377036fb7d9570/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/19048c5ae64ac78b1c2bd05ebc9f0037/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/19048c5ae64ac78b1c2bd05ebc9f0037/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/4d810cad3983b889b04f2f1985853fd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/4d810cad3983b889b04f2f1985853fd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f99bcc05fb2324c2a21c95fe0c0160b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f99bcc05fb2324c2a21c95fe0c0160b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f9490c5197564c6efafd371b7ca36618/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f9490c5197564c6efafd371b7ca36618/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/bcfcb480b0afc79be4b21ddf8897a2eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/bcfcb480b0afc79be4b21ddf8897a2eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f49fae5595144a51582c0d3cb663eb31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f49fae5595144a51582c0d3cb663eb31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/af8f4010801bbf6f98c54e37f656e399/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/af8f4010801bbf6f98c54e37f656e399/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/c4c28d57dcad778b4d904f28dcc37506/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/c4c28d57dcad778b4d904f28dcc37506/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/6b94e1b678aa74e503f2ed37c4a8cb6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/6b94e1b678aa74e503f2ed37c4a8cb6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/9d0eac4688dc2e8d37b845997ab55fca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/9d0eac4688dc2e8d37b845997ab55fca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/0b1fbed59ff6f9558b3e1641049f031b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/0b1fbed59ff6f9558b3e1641049f031b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/68b25648b495dc2e859cd89d8c0ec0ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/68b25648b495dc2e859cd89d8c0ec0ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/fbb7f7140657bab25982a8d52b07b8f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/fbb7f7140657bab25982a8d52b07b8f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/cf6dfb249f62aae8b80042dba061eed4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/cf6dfb249f62aae8b80042dba061eed4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/5eb142a8d52447c047d3234c0e7821f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/5eb142a8d52447c047d3234c0e7821f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/a91cc4ff6be88fe170d45d72fcddb329/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/a91cc4ff6be88fe170d45d72fcddb329/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/41e2e2ac4cc203935b5f3071c6d31db7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/41e2e2ac4cc203935b5f3071c6d31db7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/1b278606fb9aa263648a5a38863df207/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/1b278606fb9aa263648a5a38863df207/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/a4954016ac13960d920a20456d79eb53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/a4954016ac13960d920a20456d79eb53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/a0b7866ff2d9a7d022864c52e999c3cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/a0b7866ff2d9a7d022864c52e999c3cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/1874a3458d21be06e3bc560c9aa30aa2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/1874a3458d21be06e3bc560c9aa30aa2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/e9c8202e8af111d95ec3166a248fb322/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/e9c8202e8af111d95ec3166a248fb322/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/2194d62b99103c92678cc43a0eae196d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/2194d62b99103c92678cc43a0eae196d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/80d9cb0b1935cb509f645b59684ca9ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/80d9cb0b1935cb509f645b59684ca9ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f5b7b15c6a773306c8fd4843541cc8e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f5b7b15c6a773306c8fd4843541cc8e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f0d1a41b939cad412b4112405044798b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/f0d1a41b939cad412b4112405044798b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/5bc1baa6382960c52f4f7ebcba8c5fa6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/5bc1baa6382960c52f4f7ebcba8c5fa6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/2dde323ff1f473c35251c3bf4357bfde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ismaelc/.gradle/caches/transforms-2/files-2.1/2dde323ff1f473c35251c3bf4357bfde/AndroidManifest.xml:20:5-44
+INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/AndroidManifest.xml

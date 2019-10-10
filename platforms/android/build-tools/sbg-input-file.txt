@@ -1,0 +1,1 @@
+/home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/assets/app

@@ -4,7 +4,7 @@
             "outputFile": "/home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
             "map": [
                 {
-                    "source": "/home/ismaelc/.gradle/caches/transforms-2/files-2.1/ae53b89256379210c62aa37a88335c18/res/values-v25/values-v25.xml",
+                    "source": "/home/ismaelc/.gradle/caches/transforms-2/files-2.1/8a90935574f82694cec42fb7c78743b1/appcompat-1.0.2/res/values-v25/values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

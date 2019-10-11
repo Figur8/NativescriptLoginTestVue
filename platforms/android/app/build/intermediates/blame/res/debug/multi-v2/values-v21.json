@@ -4,22 +4,22 @@
             "outputFile": "/home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/home/ismaelc/.gradle/caches/transforms-2/files-2.1/9e8d67be4de814b6cf377036fb7d9570/res/values-v21/values-v21.xml",
+                    "source": "/home/ismaelc/.gradle/caches/transforms-2/files-2.1/0ce66f28f15d428e7cb22ee7b459b6ef/core-1.0.1/res/values-v21/values-v21.xml",
                     "from": {
-                        "startLines": "2,5,8,11",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,223,386,554",
-                        "endLines": "4,7,10,13",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "218,381,549,716"
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
                     },
                     "to": {
-                        "startLines": "281,284,288,292",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "20373,20541,20830,21126",
-                        "endLines": "283,286,290,294",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "20536,20699,20993,21288"
+                        "startLines": "2,4,5,6,279,280,287,291,327,330",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,203,267,334,20131,20247,20704,20998,23006,23178",
+                        "endLines": "2,4,5,6,279,280,287,291,329,334",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,262,329,393,20242,20368,20825,21121,23173,23511"
                     }
                 },
                 {
@@ -59,7 +59,7 @@
                     }
                 },
                 {
-                    "source": "/home/ismaelc/.gradle/caches/transforms-2/files-2.1/ae53b89256379210c62aa37a88335c18/res/values-v21/values-v21.xml",
+                    "source": "/home/ismaelc/.gradle/caches/transforms-2/files-2.1/8a90935574f82694cec42fb7c78743b1/appcompat-1.0.2/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -78,22 +78,22 @@
                     }
                 },
                 {
-                    "source": "/home/ismaelc/.gradle/caches/transforms-2/files-2.1/a91cc4ff6be88fe170d45d72fcddb329/res/values-v21/values-v21.xml",
+                    "source": "/home/ismaelc/.gradle/caches/transforms-2/files-2.1/55c801ebe9254aadd0bc70a611ebff34/media-1.0.0/res/values-v21/values-v21.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
-                        "endLines": "2,3,4,5,6,7,8,9,12,17",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
                     },
                     "to": {
-                        "startLines": "2,4,5,6,279,280,287,291,327,330",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,203,267,334,20131,20247,20704,20998,23006,23178",
-                        "endLines": "2,4,5,6,279,280,287,291,329,334",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,262,329,393,20242,20368,20825,21121,23173,23511"
+                        "startLines": "281,284,288,292",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "20373,20541,20830,21126",
+                        "endLines": "283,286,290,294",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "20536,20699,20993,21288"
                     }
                 },
                 {
@@ -114,7 +114,7 @@
                     }
                 },
                 {
-                    "source": "/home/ismaelc/.gradle/caches/transforms-2/files-2.1/57e90cc1cae33024812190bec42280b8/res/values-v21/values-v21.xml",
+                    "source": "/home/ismaelc/.gradle/caches/transforms-2/files-2.1/4b572913f1a424e7576b45966b745c44/material-1.0.0/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,10,18,26",
                         "startColumns": "4,4,4,4",

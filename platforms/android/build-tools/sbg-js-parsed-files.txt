@@ -1,6 +1,4 @@
 /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/assets/app/tns-java-classes.js
 /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/assets/app/vendor.js
-/home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/assets/app/bundle.b8e33a93066555bd4e15.hot-update.js
-/home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/assets/app/bundle.83b9f105b68cce5a6a31.hot-update.js
 /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/assets/app/runtime.js
 /home/ismaelc/Documents/estudos/nativescript/vue/studyLoginVue/platforms/android/app/src/main/assets/app/bundle.js

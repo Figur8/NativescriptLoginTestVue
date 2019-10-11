@@ -1,37 +1,50 @@
 <template>
     <Page>
-        <ActionBar title="Welcome to NativeScript-Vue!"/>
         <FlexboxLayout class="page">
             <StackLayout class="form">
-                <Image src="https://www.carnegietechnologies.com/sites/ct/assets/image/logo-octopus.png" loadMode="async" stretch="aspectFit"></Image>
+                <Image
+                        src="https://www.carnegietechnologies.com/sites/ct/assets/image/logo-octopus.png"
+                        loadMode="async" stretch="aspectFit"></Image>
 
                 <StackLayout class="input-field">
-                    <TextField hint="email" class="input" keyboardType="email" autocorrect="false" autocapitalizationType="none"></TextField>
+                    <TextField hint="email" class="input" keyboardType="email"
+                               autocorrect="false" autocapitalizationType="none">
+                    </TextField>
                 </StackLayout>
 
                 <StackLayout class="input-field">
-                    <TextField hint="Password" secure="true"  class="input"></TextField>
-                    <Label> {{ msg }}</Label>
+                    <TextField hint="Password" secure="true" class="input">
+                    </TextField>
                 </StackLayout>
 
-                <Button text="Log In" class="btn btn-primary" @tap="$showModal(Home)"></Button>
-
+                <Button text="Log In" class="btn btn-primary"
+                        @tap="goTo('home')"></Button>
             </StackLayout>
+            <Home />
         </FlexboxLayout>
+
     </Page>
 </template>
 
-<script lang="ts">
-    import Vue from 'nativescript-vue';
-    import Home from "./Home.vue";
+<script>
+    import Home from "./Home";
     export default {
-      goToHome(){
-          return {
-              detailPage: Home
-          }
-      }
-
-    }
+        data() {
+            return {
+                routes: {
+                    home: Home
+                }
+            };
+        },
+        methods: {
+            goTo(s) {
+                this.$navigateTo(this.routes[s]);
+            }
+        },
+        components: {
+            Home,
+        }
+    };
 </script>
 
 <style scoped>
@@ -47,11 +60,4 @@
     }
 
     .btn { background-color: #28ABE2 }
-
-    .message {
-        vertical-align: center;
-        text-align: center;
-        font-size: 20;
-        color: #333333;
-    }
 </style>

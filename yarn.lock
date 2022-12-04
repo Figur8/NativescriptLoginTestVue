@@ -656,6 +656,11 @@
     request "^2.88.0"
     xhr "^2.5.0"
 
+"@master.technology/permissions@latest":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@master.technology/permissions/-/permissions-2.0.1.tgz#c05b7cf876fbd585640d48f6598e51c834d860bd"
+  integrity sha512-QOHxOlsbRabluKJ3HQn2VrOXDUr4PmatXyXIkJvGbVyqIMucYvpNF/aGEFVfhyXSUkzWx+ztWY9iLrCyp4RfVw==
+
 "@types/node@^7.0.18":
   version "7.10.7"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-7.10.7.tgz#8604623912010235185f1166c7a5a9aa7de9fcd8"
@@ -1978,9 +1983,9 @@ decamelize@^1.1.1, decamelize@^1.1.2, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -3969,6 +3974,13 @@ nativescript-dev-webpack@^1.0.0:
     webpack-cli "~3.1.1"
     webpack-sources "~1.3.0"
 
+nativescript-geolocation@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/nativescript-geolocation/-/nativescript-geolocation-5.1.0.tgz#2f4e32e788d2ed17860bd9ac6139623d47cc692e"
+  integrity sha512-1TOmcNRXydfO3hCgO/xQdbzbG3oczcw71beRxheFcQISA4KQtCSc0lf3tuVZjxY3jX8rJHnr46AZVPTi+wvz+Q==
+  dependencies:
+    nativescript-permissions "~1.3.0"
+
 nativescript-hook@0.2.4:
   version "0.2.4"
   resolved "https://registry.yarnpkg.com/nativescript-hook/-/nativescript-hook-0.2.4.tgz#e591e1d9ad415a8b4f3309c15731577af44a3dd4"
@@ -3984,6 +3996,13 @@ nativescript-hook@0.2.5:
   dependencies:
     glob "^6.0.1"
     mkdirp "^0.5.1"
+
+nativescript-permissions@~1.3.0:
+  version "1.3.12"
+  resolved "https://registry.yarnpkg.com/nativescript-permissions/-/nativescript-permissions-1.3.12.tgz#e75efb6fab83d594c8b97f4bda1ff8ec82dc57a4"
+  integrity sha512-XNxITo08vRHwPNT8fe7MpoZ9C+GQs2G4KBbQ1yan9WDTgecnhWsxtmBEWtFd9zWoa4UTwpFQ+w4O4eDSpG8Efw==
+  dependencies:
+    "@master.technology/permissions" latest
 
 nativescript-socketio@^3.2.1:
   version "3.3.1"
@@ -4046,6 +4065,11 @@ neo-async@^2.5.0:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha512-iyam8fBuCUpWeKPGpaNMetEocMt364qkCsfL9JuhjXX6dRnguRVOfk2GZaDpPjcOKiiXCPINZC1GczQ7iTq3Zw==
+
+net@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/net/-/net-1.0.2.tgz#d1757ec9a7fb2371d83cf4755ce3e27e10829388"
+  integrity sha512-kbhcj2SVVR4caaVnGLJKmlk2+f+oLkjqdKeQlmUtz6nGzOpbcobwVIeSURNgraV/v3tlmGIX82OcPCl0K6RbHQ==
 
 next-tick@^1.0.0:
   version "1.0.0"
@@ -5856,6 +5880,11 @@ timers-browserify@^2.0.4:
   dependencies:
     setimmediate "^1.0.4"
 
+tls@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/tls/-/tls-0.0.1.tgz#0ab2bf5968d71df2f8c0e1515d24a2240b98aac8"
+  integrity sha512-GzHpG+hwupY8VMR6rYsnAhTHqT/97zT45PG8WD5eTT1lq+dFE0nN+1PYpsoBcHJgSmTz5ceK2Cv88IkPmIPOtQ==
+
 tns-core-modules-widgets@6.1.0:
   version "6.1.0"
   resolved "https://registry.yarnpkg.com/tns-core-modules-widgets/-/tns-core-modules-widgets-6.1.0.tgz#75351b6dec4c151603df5f0176286f360ddc2614"
@@ -6175,10 +6204,10 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.0.tgz#bd76d6a23323e2ca8ffa12028dc04559c75f9019"
   integrity sha512-iq+S7vZJE60yejDYM0ek6zg308+UZsdtPExWP9VZoCFCz1zkJoXFnAX7aZfd/ZwrkidzdUZL0C/ryW+JwAiIGw==
 
-vue-class-component@^7.0.1:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/vue-class-component/-/vue-class-component-7.1.0.tgz#b33efcb10e17236d684f70b1e96f1946ec793e87"
-  integrity sha512-G9152NzUkz0i0xTfhk0Afc8vzdXxDR1pfN4dTwE72cskkgJtdXfrKBkMfGvDuxUh35U500g5Ve4xL8PEGdWeHg==
+vue-class-component@^6.2.0, vue-class-component@^6.3.2:
+  version "6.3.2"
+  resolved "https://registry.yarnpkg.com/vue-class-component/-/vue-class-component-6.3.2.tgz#e6037e84d1df2af3bde4f455e50ca1b9eec02be6"
+  integrity sha512-cH208IoM+jgZyEf/g7mnFyofwPDJTM/QvBNhYMjqGB8fCsRyTf68rH2ISw/G20tJv+5mIThQ3upKwoL4jLTr1A==
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.4"
@@ -6196,12 +6225,12 @@ vue-loader@^15.4.0:
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
 
-vue-property-decorator@^8.2.2:
-  version "8.2.2"
-  resolved "https://registry.yarnpkg.com/vue-property-decorator/-/vue-property-decorator-8.2.2.tgz#ac895e9508ee1bf86e3a28568d94d842c2c8e42f"
-  integrity sha512-3gRrIeoUtjXvkoMX2stJsVs7805Pa9MXEndnk21ej+sWO7AIc5HF1TKqK0Pox5TEjpO02UbadIF0QWNrx6ZwXQ==
+vue-property-decorator@^7.3.0:
+  version "7.3.0"
+  resolved "https://registry.yarnpkg.com/vue-property-decorator/-/vue-property-decorator-7.3.0.tgz#d50d67f0b0f1c814f9f2fba36d6eeccbcc62dbb6"
+  integrity sha512-HarXfTQ/Nxm4s/APpAaGIGHq5ZzslApImQy8ZrtkfGamw8rUFAVgMS5C50/AQ80+wfw3Wpnf4bNzbmj75m/k2Q==
   dependencies:
-    vue-class-component "^7.0.1"
+    vue-class-component "^6.2.0"
 
 vue-style-loader@^4.1.0:
   version "4.1.2"
